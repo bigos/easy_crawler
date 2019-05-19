@@ -1,3 +1,6 @@
 * Easy Crawler
 
 notes will go here
+
+** potential candidates
+[[https://www.google.com/search?safe=strict&ei=acjhXLqPK7up1fAPlqOqeA&q=web+crawler+clojure][Google search]]
