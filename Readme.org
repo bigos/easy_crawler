@@ -15,3 +15,8 @@ http://clojure-doc.org/articles/tutorials/introduction.html
 
 *** leininigen + projects
 https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md
+
+* Usage
+#+BEGIN_EXAMPLE
+  $ java -jar easy_crawler-0.1.0-standalone.jar [args]
+#+END_EXAMPLE
