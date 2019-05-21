@@ -1,22 +1,23 @@
-* Easy Crawler
+* Documentation
+** Easy Crawler
 
-notes will go here
+ notes will go here
 
-** potential candidates
-[[https://www.google.com/search?safe=strict&ei=acjhXLqPK7up1fAPlqOqeA&q=web+crawler+clojure][Google search]]
+*** potential candidates
+ [[https://www.google.com/search?safe=strict&ei=acjhXLqPK7up1fAPlqOqeA&q=web+crawler+clojure][Google search]]
 
-* Clojure Documentation
+** Clojure Documentation
 
-** reference
-https://clojuredocs.org/quickref
+*** reference
+ https://clojuredocs.org/quickref
 
-** tutorials
-http://clojure-doc.org/articles/tutorials/introduction.html
+*** tutorials
+ http://clojure-doc.org/articles/tutorials/introduction.html
 
-*** leininigen + projects
-https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md
+**** leininigen + projects
+ https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md
 
-* Usage
-#+BEGIN_EXAMPLE
-  $ java -jar easy_crawler-0.1.0-standalone.jar [args]
-#+END_EXAMPLE
+** Usage
+ #+BEGIN_EXAMPLE
+   $ java -jar easy_crawler-0.1.0-standalone.jar [args]
+ #+END_EXAMPLE
