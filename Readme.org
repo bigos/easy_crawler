@@ -7,4 +7,11 @@ notes will go here
 
 * Clojure Documentation
 
+** reference
 https://clojuredocs.org/quickref
+
+** tutorials
+http://clojure-doc.org/articles/tutorials/introduction.html
+
+*** leininigen + projects
+https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md
