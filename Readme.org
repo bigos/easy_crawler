@@ -22,7 +22,7 @@ https://sites.hampshire.edu/ci-lab/2012/08/14/using-leiningen-to-add-libraries-t
 
 https://stackoverflow.com/questions/32214531/how-to-add-libraries-in-clojure
 
-
+http://www.unexpected-vortices.com/clojure/brief-beginners-guide/libs-management-and-use.html
 
 ** Usage
  #+BEGIN_EXAMPLE
