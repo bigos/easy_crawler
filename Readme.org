@@ -17,6 +17,9 @@
 **** leininigen + projects
  https://github.com/technomancy/leiningen/blob/master/doc/TUTORIAL.md
 
+**** libraries
+https://sites.hampshire.edu/ci-lab/2012/08/14/using-leiningen-to-add-libraries-to-your-clojure-project-2/
+
 ** Usage
  #+BEGIN_EXAMPLE
    $ java -jar easy_crawler-0.1.0-standalone.jar [args]
