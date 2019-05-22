@@ -20,6 +20,10 @@
 **** libraries
 https://sites.hampshire.edu/ci-lab/2012/08/14/using-leiningen-to-add-libraries-to-your-clojure-project-2/
 
+https://stackoverflow.com/questions/32214531/how-to-add-libraries-in-clojure
+
+
+
 ** Usage
  #+BEGIN_EXAMPLE
    $ java -jar easy_crawler-0.1.0-standalone.jar [args]
