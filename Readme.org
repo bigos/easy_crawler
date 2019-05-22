@@ -24,6 +24,11 @@ https://stackoverflow.com/questions/32214531/how-to-add-libraries-in-clojure
 
 http://www.unexpected-vortices.com/clojure/brief-beginners-guide/libs-management-and-use.html
 
+from github
+https://lambdaisland.com/blog/2017-05-17-loading-clojure-libraries-directly-from-github
+
+
+
 ** Usage
  #+BEGIN_EXAMPLE
    $ java -jar easy_crawler-0.1.0-standalone.jar [args]
