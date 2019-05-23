@@ -5,7 +5,8 @@
 (defn my-handler [{:keys [url body]}]
   (println url "has a count of" (count body)))
 
-(def c (crawl {;; initial URL to start crawling at (required)
+(defn cf []
+  (crawl {;; initial URL to start crawling at (required)
                :url "http://aoeu.com"
                ;; handler to use for each page crawled (required)
                :handler my-handler
@@ -34,7 +35,15 @@
                ;; by default this crawler is polite
                :polite? true}))
 
+(def ^:dynamic c true)
+
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println "Hello, World!"))
+  (println "Hello, World!")
+  (binding [c c]
+    (set! c cf)))
+
+;;; in REPL
+;; (def zzz (cf))
+;; zzz
